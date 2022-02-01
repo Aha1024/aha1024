@@ -1,37 +1,10 @@
 # 三国演义
 
-You can use the [editor on GitHub](https://github.com/Aha1024/aha1024/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/98789460/151900537-241994bd-465a-40a9-9f53-d3624ce40cd8.png)
+![image](https://user-images.githubusercontent.com/98789460/151900577-3ce5739e-f0c4-4f76-af01-c3fbc02c7dca.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [潇水讲透三国演义](https://www.dedao.cn/course/detail?id=YE36g8pDr7WJoQasz2KP4Z5Rlwjy0z)
 
-### Markdown
+## 参考
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aha1024/aha1024/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Alt](https://repobeats.axiom.co/api/embed/0554cb7224966eced90b5eb46f82d171a4839043.svg "Repobeats analytics image")
