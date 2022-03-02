@@ -3307,5 +3307,9 @@
 7. [《百家讲坛》品读孙子兵法（第四部）](https://tv.cctv.com/2018/03/16/VIDAtnAxnb7H7V5XG80QBWwa180316.shtml)
 8. [百家讲坛](https://tv.cctv.com/lm/bjjt/index.shtml)
 9. [俄乌战事实况](https://international.caixin.com/2022-02-26/101847496.html) 
+10. [俄乌战争阶段性总结](https://www.toutiao.com/a7069764732240019980/?log_from=e78212a80c5f_1646198151696) 
+11. [卢克文工作室](https://www.toutiao.com/c/user/token/MS4wLjABAAAAYSFOygwRb8aZMVOU39eaQdu1GX6zp-O5PxkEm2mIvFk/?) 
+12. [金灿荣教授](https://www.toutiao.com/c/user/token/MS4wLjABAAAAbzgbV4s_OwdkJorPwzq8yc7vGgb6yp4TAulOydCOvy0eIUwY-trG4Nb1RLwLMeqM/?) 
+13. [军武次位面](https://www.toutiao.com/c/user/token/MS4wLjABAAAAJ139BlrYvFGW-a7E1nPveXBX8sz-zdn4LOndd-Y5cek/?) 
 
 ![Alt](https://repobeats.axiom.co/api/embed/0554cb7224966eced90b5eb46f82d171a4839043.svg "Repobeats analytics image")
